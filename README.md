@@ -55,6 +55,7 @@ The input is given from a standard source in the following format:
 
 **Output**
 Print the answer.
+
 C.
 **Problem Statement**
 
@@ -83,6 +84,7 @@ The input is given from a standard source in the following format:
 
 **Output**
 Print the answer.
+
 E.
 **Problem Statement**
 
